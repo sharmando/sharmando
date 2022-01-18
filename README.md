@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sharmando (Armando Cordova)
+- 👀 I’m interested in Functional Programming, Hexagonal Architecture.
+- 🌱 I joined ShopRunner on January 18th 2022
